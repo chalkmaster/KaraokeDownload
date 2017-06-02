@@ -1,0 +1,182 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="1508" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="87" fromTop="4" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="4592" fromTop="31" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="2562" fromTop="20" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="1865" fromTop="15" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="1824" fromTop="14" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="1875" fromTop="22" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="4579" fromTop="26" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="1824" fromTop="20" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="2723" fromTop="33" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="2468" fromTop="14" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="2560" fromTop="21" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="2195" fromTop="16" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="2725" fromTop="28" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="2932" fromTop="32" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="1715" fromTop="25" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="3348" fromTop="30" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="4335" fromTop="21" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="4493" fromTop="15" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="623" fromTop="13" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="962" fromTop="19" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="709" fromTop="14" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="1450" fromTop="26" />
+      <File id="74A0B1D3-4204-457B-815C-834EC6DE9E44/f:Program.cs" caret="1809" fromTop="30" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="4" />
+      <Item value="const" priority="3" />
+      <Item value="string" priority="8" />
+      <Item value="using" priority="3" />
+      <Item value="System" priority="2" />
+      <Item value="Net" priority="1" />
+      <Item value="void" priority="3" />
+      <Item value="new" priority="6" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="for" priority="2" />
+      <Item value="var" priority="8" />
+      <Item value="GetMusics`0" priority="2" />
+      <Item value="c" priority="1" />
+      <Item value="Console`0" priority="1" />
+      <Item value="String`0" priority="3" />
+      <Item value="artistNameFirtsChar" priority="2" />
+      <Item value="static" priority="3" />
+      <Item value="HttpWebRequest`0" priority="1" />
+      <Item value="UrlFormation" priority="2" />
+      <Item value="request" priority="0" />
+      <Item value="response" priority="0" />
+      <Item value="Windows" priority="0" />
+      <Item value="WebBrowser`0" priority="0" />
+      <Item value="browser" priority="4" />
+      <Item value="e" priority="1" />
+      <Item value="NavigateToPage`0" priority="0" />
+      <Item value="links" priority="5" />
+      <Item value="in" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="link" priority="2" />
+      <Item value="InvariantCultureIgnoreCase" priority="1" />
+      <Item value="WebClient`0" priority="2" />
+      <Item value="WebClient" priority="0" />
+      <Item value="client" priority="0" />
+      <Item value="HtmlDocument`0" priority="0" />
+      <Item value="a" priority="1" />
+      <Item value="n" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="l" priority="1" />
+      <Item value="List" priority="2" />
+      <Item value="wc" priority="1" />
+      <Item value="out" priority="1" />
+      <Item value="fileName" priority="1" />
+      <Item value="artistName" priority="1" />
+      <Item value="parts" priority="0" />
+      <Item value="Last`1" priority="0" />
+      <Item value="FtpStatusCode`0" priority="0" />
+      <Item value="DownloadAll`0" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="url" priority="1" />
+      <Item value="doc" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="LinksDownloaded" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="3" />
+      <Item value="Empty" priority="0" />
+      <Item value="IsNullOrWhiteSpace`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.HttpWebRequest">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebRequest">
+      <Item value="GetResponse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.WebBrowser">
+      <Item value="Navigate`0" priority="0" />
+      <Item value="Navigated" priority="0" />
+      <Item value="Document" priority="0" />
+      <Item value="DocumentCompleted" priority="0" />
+      <Item value="FileDownload" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.WebBrowserNavigatedEventArgs">
+      <Item value="Url" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.HtmlDocument">
+      <Item value="Links" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.HtmlElementCollection">
+      <Item value="AsQueryable`0" priority="0" />
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="EndsWith`0" priority="3" />
+      <Item value="Split`0" priority="0" />
+      <Item value="StartsWith`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HtmlAgilityPack.HtmlDocument">
+      <Item value="LoadHtml`0" priority="1" />
+      <Item value="DocumentNode" priority="0" />
+      <Item value="Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HtmlAgilityPack.HtmlNode">
+      <Item value="SelectNodes`0" priority="0" />
+      <Item value="Attributes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HtmlAgilityPack.HtmlNodeCollection">
+      <Item value="Select`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HtmlAgilityPack.HtmlAttribute">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToString`0" priority="0" />
+      <Item value="ToList`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Where`1" priority="0" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="DownloadFile`0" priority="0" />
+      <Item value="DownloadString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

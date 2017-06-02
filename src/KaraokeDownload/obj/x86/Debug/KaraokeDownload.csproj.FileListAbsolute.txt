@@ -1,0 +1,6 @@
+D:\DropBox\Projeto\KaraokeDownload\KaraokeDownload\bin\Debug\KaraokeDownload.exe
+D:\DropBox\Projeto\KaraokeDownload\KaraokeDownload\bin\Debug\KaraokeDownload.pdb
+D:\DropBox\Projeto\KaraokeDownload\KaraokeDownload\bin\Debug\HtmlAgilityPack.dll
+D:\DropBox\Projeto\KaraokeDownload\KaraokeDownload\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DropBox\Projeto\KaraokeDownload\KaraokeDownload\obj\x86\Debug\KaraokeDownload.exe
+D:\DropBox\Projeto\KaraokeDownload\KaraokeDownload\obj\x86\Debug\KaraokeDownload.pdb
